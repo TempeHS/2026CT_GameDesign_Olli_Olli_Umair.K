@@ -13,7 +13,7 @@ public class GameManager : MonoBehaviour
         ScoreText.text = string.Format(ScoreFormat, Score);
     }
 
-    void GoldenMushroomCollected()
+    void CollectableCollected()
     {
         Score += 25;
     }
