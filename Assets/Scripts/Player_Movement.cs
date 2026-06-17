@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    public CoinManager cm;
     // Movement
     public float moveSpeed = 5f;
     public float acceleration = 60f;
@@ -90,6 +91,15 @@ public class PlayerController : MonoBehaviour
             Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
         }
     }
+
+     void OnTriggerEnter2D(Collider2D other)
+     {
+        if(other.gameObject.CompareTag("Coin"))
+        {
+            Destroy(other.gameObject);
+            cm.coinCount++;
+        }
+     }
 }
 
 
