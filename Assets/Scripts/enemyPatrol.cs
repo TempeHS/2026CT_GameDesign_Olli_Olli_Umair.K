@@ -39,4 +39,11 @@ public class enemyPatrol : MonoBehaviour
             currentPoint = pointB.transform;
         }
     }
+
+    private void OnDrawGizmos()
+    {
+        Gizmos.DrawWireSphere(pointA.transform.position, 0.5f);
+        Gizmos.DrawWireSphere(pointB.transform.position, 0.5f);
+        Gizmos.DrawLine(pointA.transform.position, pointB.transform.position);
+    }
 }
