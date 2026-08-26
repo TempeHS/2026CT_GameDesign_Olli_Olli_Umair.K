@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: dc02a80fd11e1574f842089305280404
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Goldman
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Goldman/Goldman-Bold.ttf
+  uploadId: 928532

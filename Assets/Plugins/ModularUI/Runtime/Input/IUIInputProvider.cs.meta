@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 88fce39119291de42971e665aecb9b16
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Runtime/Input/IUIInputProvider.cs
+  uploadId: 928532

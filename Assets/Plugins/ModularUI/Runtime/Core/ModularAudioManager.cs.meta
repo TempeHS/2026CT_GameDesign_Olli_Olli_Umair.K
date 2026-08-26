@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 4bab664bfa619494fa0e26503396b68b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Runtime/Core/ModularAudioManager.cs
+  uploadId: 928532

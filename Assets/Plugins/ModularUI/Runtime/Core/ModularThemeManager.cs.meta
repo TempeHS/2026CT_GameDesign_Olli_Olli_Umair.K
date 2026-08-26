@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 60135277468a9d8409b1ccc44169df6f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Runtime/Core/ModularThemeManager.cs
+  uploadId: 928532

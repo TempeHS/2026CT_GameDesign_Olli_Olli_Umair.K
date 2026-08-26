@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 80e2dae0a5acca149ba946c9965eb467
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/VR_Enviroment~/Modular_VR_EventSystem.prefab
+  uploadId: 928532

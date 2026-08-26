@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3634c5737d921c346864bd49f275004d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/JetBrains_Mono/static/JetBrainsMono-Regular
+    SDF.asset
+  uploadId: 928532

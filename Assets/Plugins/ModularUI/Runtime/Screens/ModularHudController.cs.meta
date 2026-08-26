@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 66cad420c51cb054c9d66ab230bd766d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Runtime/Screens/ModularHudController.cs
+  uploadId: 928532

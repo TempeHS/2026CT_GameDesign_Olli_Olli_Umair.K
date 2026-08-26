@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1dcd4c4e3940614fafc7026c52be3c2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Cinzel/static/Cinzel-Regular SDF.asset
+  uploadId: 928532

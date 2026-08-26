@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29a2696b9dc5e614b96b217dae0820bb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Nunito/static/Nunito-Light SDF.asset
+  uploadId: 928532

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0aedf98bc6546c741aa4ee32008d5fb8
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Nunito/README.txt
+  uploadId: 928532

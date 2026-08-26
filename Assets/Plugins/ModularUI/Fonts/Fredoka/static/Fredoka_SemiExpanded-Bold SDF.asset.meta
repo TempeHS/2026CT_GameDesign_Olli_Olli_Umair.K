@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9640ecab6c244d044b506debeb7500a6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Fredoka/static/Fredoka_SemiExpanded-Bold
+    SDF.asset
+  uploadId: 928532

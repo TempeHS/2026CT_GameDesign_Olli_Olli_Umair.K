@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: fc70f067de1f1fa40851fedd85f53810
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Runtime/Platforms/BasePlatformUIAdapter.cs
+  uploadId: 928532

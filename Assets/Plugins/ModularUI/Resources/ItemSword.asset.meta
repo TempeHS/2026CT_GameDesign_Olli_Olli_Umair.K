@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48250ee375f7cc843a2b6e10faa23c58
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Resources/ItemSword.asset
+  uploadId: 928532

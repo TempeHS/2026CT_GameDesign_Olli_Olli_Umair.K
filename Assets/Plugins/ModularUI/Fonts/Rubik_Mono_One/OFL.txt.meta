@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9c37f52f0a76d6e4c8da70089a673438
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Rubik_Mono_One/OFL.txt
+  uploadId: 928532

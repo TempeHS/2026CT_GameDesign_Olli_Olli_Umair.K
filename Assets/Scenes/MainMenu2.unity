@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1.73
   m_AmbientMode: 3
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: f52414040e9c703489858ea44dcbc188, type: 2}
+  m_SkyboxMaterial: {fileID: 0}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -131,7 +131,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1543611044}
   - component: {fileID: 1543611043}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: IMG_0182_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}

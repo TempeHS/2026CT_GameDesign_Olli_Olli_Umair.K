@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: eb043d9f9a188964890f935be4c14b11
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Editor/DialogueChoiceDrawer.cs
+  uploadId: 928532

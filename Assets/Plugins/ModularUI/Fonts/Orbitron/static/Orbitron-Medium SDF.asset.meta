@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66d40dff4674c0546b67f9b79143bc91
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Orbitron/static/Orbitron-Medium SDF.asset
+  uploadId: 928532

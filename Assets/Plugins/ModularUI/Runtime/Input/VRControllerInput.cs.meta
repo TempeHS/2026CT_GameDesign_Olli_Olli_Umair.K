@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 452dd8c8a0931dc4a8d72c527d34e640
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Runtime/Input/VRControllerInput.cs
+  uploadId: 928532

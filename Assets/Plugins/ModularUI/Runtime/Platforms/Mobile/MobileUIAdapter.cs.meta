@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c0f837b07fd144340b9a40fa745d6b7c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Runtime/Platforms/Mobile/MobileUIAdapter.cs
+  uploadId: 928532

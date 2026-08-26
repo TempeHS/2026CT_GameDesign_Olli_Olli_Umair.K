@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db403d2390800764396e215048a7d0d2
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Cinzel/OFL.txt
+  uploadId: 928532

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 5c3a47d05e6174b4c88c1869a0d67293
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Runtime/Input/StandardDesktopInput.cs
+  uploadId: 928532

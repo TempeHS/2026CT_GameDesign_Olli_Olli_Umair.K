@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c4a8ffee6dc234c488aec732ea22c8e0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Editor/ModularCanvasInitializerEditor.cs
+  uploadId: 928532

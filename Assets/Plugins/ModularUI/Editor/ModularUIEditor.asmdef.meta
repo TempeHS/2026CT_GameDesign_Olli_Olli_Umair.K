@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93236a058808a924b9bbd12039f62c11
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Editor/ModularUIEditor.asmdef
+  uploadId: 928532

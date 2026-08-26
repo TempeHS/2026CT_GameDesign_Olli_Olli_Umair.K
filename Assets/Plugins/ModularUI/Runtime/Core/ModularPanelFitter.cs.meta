@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b3efeb44725bb9a469b3d5265a4965e3
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Runtime/Core/ModularPanelFitter.cs
+  uploadId: 928532

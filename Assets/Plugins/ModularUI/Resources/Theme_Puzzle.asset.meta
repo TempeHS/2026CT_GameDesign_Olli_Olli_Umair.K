@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e09a7e210e11054da58516649232a209
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Resources/Theme_Puzzle.asset
+  uploadId: 928532

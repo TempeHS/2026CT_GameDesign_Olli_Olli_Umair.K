@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 24e924acaef834d4ebed66d5c245b734
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Runtime/Platforms/PlatformFactory.cs
+  uploadId: 928532

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: cb19e3d196fc6474c8231a2b8d7bf33a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Runtime/Inventory/ModularInventorySlot.cs
+  uploadId: 928532

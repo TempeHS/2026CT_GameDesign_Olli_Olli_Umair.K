@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fe3c5da46f022654988ecd3e940a6a05
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/README.txt
+  uploadId: 928532

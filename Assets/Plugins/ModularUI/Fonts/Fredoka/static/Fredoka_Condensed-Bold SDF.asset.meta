@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d31b2e3f6d9ecaf40ac4d5b5317b0208
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Fredoka/static/Fredoka_Condensed-Bold
+    SDF.asset
+  uploadId: 928532

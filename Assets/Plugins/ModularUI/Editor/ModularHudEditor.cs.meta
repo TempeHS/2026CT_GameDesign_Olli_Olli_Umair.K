@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 6373e399a94dc1445bf56d9e0412d428
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Editor/ModularHudEditor.cs
+  uploadId: 928532

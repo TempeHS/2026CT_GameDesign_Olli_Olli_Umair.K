@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d72ac4ed6685a3740bd930ebe9909530
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/JetBrains_Mono/JetBrainsMono-Italic-VariableFont_wght
+    SDF.asset
+  uploadId: 928532

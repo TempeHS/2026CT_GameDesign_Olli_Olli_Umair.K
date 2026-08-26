@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e7ba488a41b2c6c4aac61940eff9f35f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Sprites/KenneyUI/License.txt
+  uploadId: 928532

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7d4d0e4cf01a27e4d8e6bf23260567d9
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Orbitron/OFL.txt
+  uploadId: 928532

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02b3ef756526efb4e9a1db9070d21289
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Fredoka/static/Fredoka-Medium SDF.asset
+  uploadId: 928532

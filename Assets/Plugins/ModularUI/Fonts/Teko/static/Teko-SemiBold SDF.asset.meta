@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bef4537623518ff4684d6890f68f5837
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Teko/static/Teko-SemiBold SDF.asset
+  uploadId: 928532

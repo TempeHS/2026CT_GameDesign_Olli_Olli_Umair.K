@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0e65f91907c96274d8638cdad8575059
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Runtime/Screens/ModularScreenBase.cs
+  uploadId: 928532

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b9b1323c5150df147bba82915206ad4a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Orbitron/static/Orbitron-Bold SDF.asset
+  uploadId: 928532

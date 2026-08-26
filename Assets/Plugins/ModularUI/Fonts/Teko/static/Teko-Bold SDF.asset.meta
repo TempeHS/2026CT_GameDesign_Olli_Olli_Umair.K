@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8ae7ff216e39b242860acccad39f8ae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Teko/static/Teko-Bold SDF.asset
+  uploadId: 928532

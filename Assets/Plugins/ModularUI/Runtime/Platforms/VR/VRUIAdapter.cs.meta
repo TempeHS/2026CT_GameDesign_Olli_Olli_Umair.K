@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 993dd8e3a6cd06241b9a674094d8b327
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Runtime/Platforms/VR/VRUIAdapter.cs
+  uploadId: 928532

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9a6f2d5e6b833604884691b4379df25a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Fredoka/static/Fredoka_SemiCondensed-Regular
+    SDF.asset
+  uploadId: 928532

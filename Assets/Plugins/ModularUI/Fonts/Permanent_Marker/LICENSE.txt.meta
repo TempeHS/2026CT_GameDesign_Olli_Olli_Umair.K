@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 84570d0efd07ec54db233992b31d224e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Permanent_Marker/LICENSE.txt
+  uploadId: 928532

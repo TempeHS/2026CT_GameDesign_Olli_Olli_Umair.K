@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4f605bf02ae73eb4d887f910a69193d6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/JetBrains_Mono/static/JetBrainsMono-ThinItalic
+    SDF.asset
+  uploadId: 928532

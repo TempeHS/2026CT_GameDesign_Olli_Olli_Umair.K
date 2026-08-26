@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d8ce9c475371725489525ce71edaf9b0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Editor/ModularUIConfigurationListener.cs
+  uploadId: 928532

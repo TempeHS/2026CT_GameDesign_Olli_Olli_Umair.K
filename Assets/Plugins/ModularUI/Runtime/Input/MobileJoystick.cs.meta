@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d191044eeb71bc741855ca2b046d4c2f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Runtime/Input/MobileJoystick.cs
+  uploadId: 928532

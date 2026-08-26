@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de7f05b563a22f341b5abde135020a41
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Resources/ItemRedPotion.asset
+  uploadId: 928532

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: bcc3c8616518d9346a4d60e336503928
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Runtime/Core/ModularSlider.cs
+  uploadId: 928532

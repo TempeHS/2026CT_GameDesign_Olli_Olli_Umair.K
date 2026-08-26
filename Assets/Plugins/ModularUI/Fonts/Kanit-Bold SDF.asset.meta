@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b0dcca19dc50de45ad1e8dbc1246751
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/Kanit-Bold SDF.asset
+  uploadId: 928532

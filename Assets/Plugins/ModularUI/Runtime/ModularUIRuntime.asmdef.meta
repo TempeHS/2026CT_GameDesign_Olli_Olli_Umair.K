@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d44550298eb82e8458d3d7a792f5802c
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Runtime/ModularUIRuntime.asmdef
+  uploadId: 928532

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a261904695c28614fbb22db4c00ae787
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Resources/ModularThemeData.asset
+  uploadId: 928532

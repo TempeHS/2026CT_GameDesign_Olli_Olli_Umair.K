@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 50f2a80f11587e84dbac4a9a14419490
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Sprites/License.txt
+  uploadId: 928532

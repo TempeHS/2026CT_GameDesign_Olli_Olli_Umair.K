@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 590cc48b3fcb56f4a87f262d3e949f5d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 384958
+  packageName: ModularUI
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/ModularUI/Fonts/MedievalSharp/OFL.txt
+  uploadId: 928532
