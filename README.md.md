@@ -2,11 +2,11 @@
 
 | Field | Detail |
 |---|---|
-| **Game Title** | |
-| **Student Name(s)** | |
-| **Class / Course** | |
-| **Repository** | |
-| **Unity Version** | |
+| **Game Title** |Olli Olli |
+| **Student Name(s)** |Umair K |
+| **Class / Course** |Computing Technology |
+| **Repository** |2026CT_GameDesign_Olli_Olli_Umair.K |
+| **Unity Version** |6.0|
 | **Document Version** | |
 | **Date** | |
 
@@ -31,26 +31,26 @@
 ## 1. Game Overview
 
 ### 1.1 Genre
-
+Sports and Action-platformer
 
 ### 1.2 Target Audience
-
+All ages interested in skateboarding.
 
 ### 1.3 Game Summary
-
+The game features the player who is being chased down through multiple different sceneries whilst attempting to collect collectables/coins. It uses ideas from Subway Surfers where the player is using graphiti illegally and has to be chased down by law enforcers as he attempts to collect a certain amount of coins to ultimately move on to the next level. 
 
 ### 1.4 Win / Loss Conditions
 | Condition | Description |
 |---|---|
-| Win | |
-| Loss | |
+| Win |The player has to meet a minimum threshold to be able to move onto the next level which serves as a "Win" condition. |
+| Loss |The inability to collect a sufficient amount of coins between the start and end of the map will lead to a "Fail" screen which would then segue the player to retry the level.|
 
 ### 1.5 Platform & Build Settings
 | Setting | Detail |
 |---|---|
-| Target Platform | |
-| Resolution | |
-| Build Type | |
+| Target Platform |Target platform would be a mobile device which would be used to play the game horizontally due to the lack of controls required although the game could be played on computers.|
+| Resolution |Adaptable to the device's horizontal specification. |
+| Build Type |Development |
 
 ---
 
@@ -89,18 +89,18 @@
 ### 3.1 Core Mechanics
 | ID | Mechanic | Description | Implemented In (Script/Object) |
 |---|---|---|---|
-| M-1 | | | |
-| M-2 | | | |
-| M-3 | | | |
-| M-4 | | | |
+| M-1 |Character Follow Camera |The camera follows the character as it progresses through the map to ensure focus and constant awareness of the players' surroundings  |Script |
+| M-2 |Minimum Coin Threshold|This creates the win and loss conditions which decides whether or not the player is able to move onto the next level. | Script|
+| M-3 |Police |The police are the enemies in this game where the player attempts to avoid being caught, adding a level of threat. |Object + Script|
+| M-4 |Crashing into objects slows down the character | | |
 | M-5 | | | |
 
 ### 3.2 Player Controls
 | Action | Input (Keyboard / Controller) | Description |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+|Jump |Spacebar |The spacebar allows the character to jump, allowing the player to escalate to the floating platforms.  |
+|Forward | D | This allows the player to continue going forward on the map. |
+|Backward| A | This allows the player to traverse backwards on the map to kill enemies and obtain missed coins. |
 | | | |
 
 ### 3.3 Physics & Collision
