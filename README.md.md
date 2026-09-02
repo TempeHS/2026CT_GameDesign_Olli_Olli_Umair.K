@@ -92,8 +92,8 @@ The game features the player who is being chased down through multiple different
 | M-1 |Character Follow Camera |The camera follows the character as it progresses through the map to ensure focus and constant awareness of the players' surroundings  |Script |
 | M-2 |Minimum Coin Threshold|This creates the win and loss conditions which decides whether or not the player is able to move onto the next level. | Script|
 | M-3 |Police |The police are the enemies in this game where the player attempts to avoid being caught, adding a level of threat. |Object + Script|
-| M-4 |Crashing into objects slows down the character | | |
-| M-5 | | | |
+| M-4 |Crashing into objects slows down the character |To add a bit of challenge to this game, slowing down when an object is hit was added so players aren't able to get away without consequences. Each time the player slows down, the polcice gets closer. | Script |
+| M-5 |  | | |
 
 ### 3.2 Player Controls
 | Action | Input (Keyboard / Controller) | Description |
