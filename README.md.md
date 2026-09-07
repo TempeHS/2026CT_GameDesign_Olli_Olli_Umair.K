@@ -106,9 +106,9 @@ The game features the player who is being chased down through multiple different
 ### 3.3 Physics & Collision
 | Feature | Description |
 |---|---|
-| | |
-| | |
-| | |
+| Falling down | The player is pulled down to the ground to ensure that it continues to travels through the map while being challenged by the obstacles. |
+|Collision with object |When the player collides with an object, it stops moving until the obstruction is cleared, they will also be faced with a temporary slow down effect. |
+|  | |
 
 ### 3.4 Game Loop
 | Stage | Description |
@@ -121,9 +121,9 @@ The game features the player who is being chased down through multiple different
 ### 3.5 Scoring & Progression
 | Element | Description |
 |---|---|
-| Scoring System | |
-| Difficulty Progression | |
-| Unlockables / Levels | |
+| Scoring System | The scoring system is based on the amount of coins the player collects during each level which determines the overall score. |
+| Difficulty Progression | Difficulty progression is based on the levels, higher levels offer a more difficult experience when attempting to collect coins. |
+| Unlockables / Levels |If the player meets the minimum threshold of coins required then they are able to move onto the next level.|
 
 ---
 
@@ -286,11 +286,11 @@ The game features the player who is being chased down through multiple different
 ### 8.1 Script Summary
 | Script Name | Attached To | Responsibility |
 |---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+|CoinManager | Coin Collectable | It connects the coin collection to the coin counter on the top right, it also allows for the coins to be collected. |
+|Enemy|Enemy |Initiates the enemy player who troubles the player in their journey to collect the coins. |
+|Player_Movement | Player |Encompasses the movements of the player and determines the degree to which each commands acts on the player.|
+|SmoothCameraFollow |Player|Follows the player smoothly throughout the map. |
+|EnemyFollow |Enemy |Codes the enemy to track the player and follow it. |
 
 ### 8.2 Key Algorithms / Logic
 | Feature | Script | Description |
