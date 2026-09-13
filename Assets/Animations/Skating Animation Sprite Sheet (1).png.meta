@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 2abb8d45ddb02994dbf00f342859d8ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6169548227011428673
+    second: Skating Animation Sprite Sheet (1)_0
+  - first:
+      213: 5695704085286175459
+    second: Skating Animation Sprite Sheet (1)_1
+  - first:
+      213: -3187081541247388512
+    second: Skating Animation Sprite Sheet (1)_2
+  - first:
+      213: -551871801882454273
+    second: Skating Animation Sprite Sheet (1)_3
+  - first:
+      213: 2655310363473152180
+    second: Skating Animation Sprite Sheet (1)_4
+  - first:
+      213: 8389599273824280482
+    second: Skating Animation Sprite Sheet (1)_5
+  - first:
+      213: -8490193764679416480
+    second: Skating Animation Sprite Sheet (1)_6
+  - first:
+      213: -1429581610311777371
+    second: Skating Animation Sprite Sheet (1)_7
+  - first:
+      213: -964440071590490396
+    second: Skating Animation Sprite Sheet (1)_8
+  - first:
+      213: 6964070496888380200
+    second: Skating Animation Sprite Sheet (1)_9
+  - first:
+      213: -8533151072497147938
+    second: Skating Animation Sprite Sheet (1)_10
+  - first:
+      213: 4604187840294801120
+    second: Skating Animation Sprite Sheet (1)_11
+  - first:
+      213: 4390340762602976015
+    second: Skating Animation Sprite Sheet (1)_12
+  - first:
+      213: -3603067130965078659
+    second: Skating Animation Sprite Sheet (1)_13
+  - first:
+      213: -316494226824841701
+    second: Skating Animation Sprite Sheet (1)_14
+  - first:
+      213: 8835259326325374519
+    second: Skating Animation Sprite Sheet (1)_15
+  - first:
+      213: 8818291388652848437
+    second: Skating Animation Sprite Sheet (1)_16
+  - first:
+      213: 2558843548867526099
+    second: Skating Animation Sprite Sheet (1)_17
+  - first:
+      213: -6980883071061142708
+    second: Skating Animation Sprite Sheet (1)_18
+  - first:
+      213: -4622092546560478257
+    second: Skating Animation Sprite Sheet (1)_19
+  - first:
+      213: -7396733631054091981
+    second: Skating Animation Sprite Sheet (1)_20
+  - first:
+      213: 3365456140935346928
+    second: Skating Animation Sprite Sheet (1)_21
+  - first:
+      213: -6900268873609651133
+    second: Skating Animation Sprite Sheet (1)_22
+  - first:
+      213: 2151417861027028107
+    second: Skating Animation Sprite Sheet (1)_23
+  - first:
+      213: 98274273103528688
+    second: Skating Animation Sprite Sheet (1)_24
+  - first:
+      213: 8252931636559688700
+    second: Skating Animation Sprite Sheet (1)_25
+  - first:
+      213: 8093870799364385183
+    second: Skating Animation Sprite Sheet (1)_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1320
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbeb750439c516aa0800000000000000
+      internalID: -6169548227011428673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1320
+        width: 109
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2493d30b43b0f40800000000000000
+      internalID: 5695704085286175459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_2
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1321
+        width: 108
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4bebf593635c3d0800000000000000
+      internalID: -3187081541247388512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_3
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1321
+        width: 108
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6dd37258b5758f0800000000000000
+      internalID: -551871801882454273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1321
+        width: 106
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b80b3705be89d420800000000000000
+      internalID: 2655310363473152180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1061
+        width: 106
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afdb2ce618dd6470800000000000000
+      internalID: 8389599273824280482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1060
+        width: 105
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0650c0601c5cc2a80800000000000000
+      internalID: -8490193764679416480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1060
+        width: 103
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a38fe3891b192ce0800000000000000
+      internalID: -1429581610311777371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_8
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1061
+        width: 101
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee42bd5dde9d92f0800000000000000
+      internalID: -964440071590490396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1061
+        width: 100
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b5fcd383955a060800000000000000
+      internalID: 6964070496888380200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 800
+        width: 98
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf50156f48249980800000000000000
+      internalID: -8533151072497147938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 800
+        width: 101
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eec1fb527c55ef30800000000000000
+      internalID: 4604187840294801120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_12
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 800
+        width: 104
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f033edd99af9dec30800000000000000
+      internalID: 4390340762602976015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_13
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 799
+        width: 106
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dc0f4c8855ffdc0800000000000000
+      internalID: -3603067130965078659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 799
+        width: 106
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16b4a47d269b9bf0800000000000000
+      internalID: -316494226824841701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 541
+        width: 107
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73eb41ccb852d9a70800000000000000
+      internalID: 8835259326325374519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 541
+        width: 107
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5350a82fb4dd06a70800000000000000
+      internalID: 8818291388652848437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_17
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 541
+        width: 107
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd7c0e76a6d28320800000000000000
+      internalID: 2558843548867526099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_18
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 540
+        width: 105
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43dcda45dbee1f90800000000000000
+      internalID: -6980883071061142708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 540
+        width: 104
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3384b51570bdfb0800000000000000
+      internalID: -4622092546560478257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 103
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339e5deb3f5895990800000000000000
+      internalID: -7396733631054091981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_21
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 280
+        width: 101
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fabb9b778084be20800000000000000
+      internalID: 3365456140935346928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_22
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 280
+        width: 100
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cdfc5c4025d30a0800000000000000
+      internalID: -6900268873609651133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_23
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 281
+        width: 98
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c52f9552f5bdd10800000000000000
+      internalID: 2151417861027028107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_24
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 281
+        width: 99
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f245e24ee32d5100800000000000000
+      internalID: 98274273103528688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 20
+        width: 101
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf339b8f89d488270800000000000000
+      internalID: 8252931636559688700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skating Animation Sprite Sheet (1)_26
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 20
+        width: 104
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99650edb94335070800000000000000
+      internalID: 8093870799364385183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skating Animation Sprite Sheet (1)_0: -6169548227011428673
+      Skating Animation Sprite Sheet (1)_1: 5695704085286175459
+      Skating Animation Sprite Sheet (1)_10: -8533151072497147938
+      Skating Animation Sprite Sheet (1)_11: 4604187840294801120
+      Skating Animation Sprite Sheet (1)_12: 4390340762602976015
+      Skating Animation Sprite Sheet (1)_13: -3603067130965078659
+      Skating Animation Sprite Sheet (1)_14: -316494226824841701
+      Skating Animation Sprite Sheet (1)_15: 8835259326325374519
+      Skating Animation Sprite Sheet (1)_16: 8818291388652848437
+      Skating Animation Sprite Sheet (1)_17: 2558843548867526099
+      Skating Animation Sprite Sheet (1)_18: -6980883071061142708
+      Skating Animation Sprite Sheet (1)_19: -4622092546560478257
+      Skating Animation Sprite Sheet (1)_2: -3187081541247388512
+      Skating Animation Sprite Sheet (1)_20: -7396733631054091981
+      Skating Animation Sprite Sheet (1)_21: 3365456140935346928
+      Skating Animation Sprite Sheet (1)_22: -6900268873609651133
+      Skating Animation Sprite Sheet (1)_23: 2151417861027028107
+      Skating Animation Sprite Sheet (1)_24: 98274273103528688
+      Skating Animation Sprite Sheet (1)_25: 8252931636559688700
+      Skating Animation Sprite Sheet (1)_26: 8093870799364385183
+      Skating Animation Sprite Sheet (1)_3: -551871801882454273
+      Skating Animation Sprite Sheet (1)_4: 2655310363473152180
+      Skating Animation Sprite Sheet (1)_5: 8389599273824280482
+      Skating Animation Sprite Sheet (1)_6: -8490193764679416480
+      Skating Animation Sprite Sheet (1)_7: -1429581610311777371
+      Skating Animation Sprite Sheet (1)_8: -964440071590490396
+      Skating Animation Sprite Sheet (1)_9: 6964070496888380200
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

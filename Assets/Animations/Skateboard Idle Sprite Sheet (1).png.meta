@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 37207746d9c310a41a508206ad31e046
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2706619172444212903
+    second: Skateboard Idle Sprite Sheet (1)_0
+  - first:
+      213: -1028602739105839974
+    second: Skateboard Idle Sprite Sheet (1)_1
+  - first:
+      213: 340204369952086936
+    second: Skateboard Idle Sprite Sheet (1)_2
+  - first:
+      213: -8992884928547351512
+    second: Skateboard Idle Sprite Sheet (1)_3
+  - first:
+      213: 5272792530922899933
+    second: Skateboard Idle Sprite Sheet (1)_4
+  - first:
+      213: 9144107871237943384
+    second: Skateboard Idle Sprite Sheet (1)_5
+  - first:
+      213: -2575152377981209023
+    second: Skateboard Idle Sprite Sheet (1)_6
+  - first:
+      213: -2725629068879391468
+    second: Skateboard Idle Sprite Sheet (1)_7
+  - first:
+      213: 8449107051889393713
+    second: Skateboard Idle Sprite Sheet (1)_8
+  - first:
+      213: 3462296254173627782
+    second: Skateboard Idle Sprite Sheet (1)_9
+  - first:
+      213: 4683059362787786462
+    second: Skateboard Idle Sprite Sheet (1)_10
+  - first:
+      213: 5835182302104711681
+    second: Skateboard Idle Sprite Sheet (1)_11
+  - first:
+      213: -7542826045000738272
+    second: Skateboard Idle Sprite Sheet (1)_12
+  - first:
+      213: -1298732724218395802
+    second: Skateboard Idle Sprite Sheet (1)_13
+  - first:
+      213: -7442477558502459512
+    second: Skateboard Idle Sprite Sheet (1)_14
+  - first:
+      213: 5062756083484994357
+    second: Skateboard Idle Sprite Sheet (1)_15
+  - first:
+      213: 4777571124847827457
+    second: Skateboard Idle Sprite Sheet (1)_16
+  - first:
+      213: -7051803473693282377
+    second: Skateboard Idle Sprite Sheet (1)_17
+  - first:
+      213: -5697738576805784634
+    second: Skateboard Idle Sprite Sheet (1)_18
+  - first:
+      213: 4593757943225985536
+    second: Skateboard Idle Sprite Sheet (1)_19
+  - first:
+      213: -3192713008250411827
+    second: Skateboard Idle Sprite Sheet (1)_20
+  - first:
+      213: 688955154967252759
+    second: Skateboard Idle Sprite Sheet (1)_21
+  - first:
+      213: 2589007330939622846
+    second: Skateboard Idle Sprite Sheet (1)_22
+  - first:
+      213: 6553532208455967785
+    second: Skateboard Idle Sprite Sheet (1)_23
+  - first:
+      213: -8277470685751512732
+    second: Skateboard Idle Sprite Sheet (1)_24
+  - first:
+      213: -1480813524710128641
+    second: Skateboard Idle Sprite Sheet (1)_25
+  - first:
+      213: 143946561688000162
+    second: Skateboard Idle Sprite Sheet (1)_26
+  - first:
+      213: -4271043846779157906
+    second: Skateboard Idle Sprite Sheet (1)_27
+  - first:
+      213: 3516897398199745945
+    second: Skateboard Idle Sprite Sheet (1)_28
+  - first:
+      213: -4822962127038365769
+    second: Skateboard Idle Sprite Sheet (1)_29
+  - first:
+      213: -1482300030800216796
+    second: Skateboard Idle Sprite Sheet (1)_30
+  - first:
+      213: -5199812995244127645
+    second: Skateboard Idle Sprite Sheet (1)_31
+  - first:
+      213: -6773055154254713176
+    second: Skateboard Idle Sprite Sheet (1)_32
+  - first:
+      213: -840860036967222246
+    second: Skateboard Idle Sprite Sheet (1)_33
+  - first:
+      213: 6641042239461861543
+    second: Skateboard Idle Sprite Sheet (1)_34
+  - first:
+      213: 3177798427889094466
+    second: Skateboard Idle Sprite Sheet (1)_35
+  - first:
+      213: 173805841665039888
+    second: Skateboard Idle Sprite Sheet (1)_36
+  - first:
+      213: 6096125022519208339
+    second: Skateboard Idle Sprite Sheet (1)_37
+  - first:
+      213: 6984870934554887121
+    second: Skateboard Idle Sprite Sheet (1)_38
+  - first:
+      213: -6904332421973283065
+    second: Skateboard Idle Sprite Sheet (1)_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1840
+        width: 92
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae8ccb0cc7df8520800000000000000
+      internalID: 2706619172444212903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1840
+        width: 90
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a944a90324ba9b1f0800000000000000
+      internalID: -1028602739105839974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1840
+        width: 91
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b970e6216a8b400800000000000000
+      internalID: 340204369952086936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_3
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1840
+        width: 92
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82498f7cdcad23380800000000000000
+      internalID: -8992884928547351512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1840
+        width: 91
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd90ef3ded8bc2940800000000000000
+      internalID: 5272792530922899933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1580
+        width: 91
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850bdfc49a566ee70800000000000000
+      internalID: 9144107871237943384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1580
+        width: 91
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1467de35e88334cd0800000000000000
+      internalID: -2575152377981209023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1580
+        width: 89
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41517f78dce9c2ad0800000000000000
+      internalID: -2725629068879391468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_8
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1580
+        width: 89
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1308d113912414570800000000000000
+      internalID: 8449107051889393713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1580
+        width: 89
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6854f21691c8c0030800000000000000
+      internalID: 3462296254173627782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1319
+        width: 89
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede7805bda19df040800000000000000
+      internalID: 4683059362787786462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1319
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102f89c336bbaf050800000000000000
+      internalID: 5835182302104711681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1319
+        width: 89
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a9a29fcaf725790800000000000000
+      internalID: -7542826045000738272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_13
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1320
+        width: 89
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66389c2e779f9fde0800000000000000
+      internalID: -1298732724218395802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1319
+        width: 88
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887f4aca71207b890800000000000000
+      internalID: -7442477558502459512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1060
+        width: 88
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b229495d5824640800000000000000
+      internalID: 5062756083484994357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1060
+        width: 88
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ad7b910a75d4240800000000000000
+      internalID: 4777571124847827457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_17
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1060
+        width: 87
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf65ac4a16f22e90800000000000000
+      internalID: -7051803473693282377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_18
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1060
+        width: 87
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3937ac3f09de0b0800000000000000
+      internalID: -5697738576805784634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1060
+        width: 88
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a2d16b28e40cf30800000000000000
+      internalID: 4593757943225985536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 800
+        width: 88
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc427794f6431b3d0800000000000000
+      internalID: -3192713008250411827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_21
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 799
+        width: 89
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f4ffd2019af8900800000000000000
+      internalID: 688955154967252759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_22
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 799
+        width: 88
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5d98943700ee320800000000000000
+      internalID: 2589007330939622846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_23
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 799
+        width: 88
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924691d42d2d2fa50800000000000000
+      internalID: 6553532208455967785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_24
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 799
+        width: 89
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46172196444802d80800000000000000
+      internalID: -8277470685751512732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 540
+        width: 88
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff30f09e1f7137be0800000000000000
+      internalID: -1480813524710128641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 540
+        width: 88
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a65d0c92a66ff100800000000000000
+      internalID: 143946561688000162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_27
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 540
+        width: 90
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e624c9410443ab4c0800000000000000
+      internalID: -4271043846779157906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_28
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 540
+        width: 89
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99df033ec878ec030800000000000000
+      internalID: 3516897398199745945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 540
+        width: 88
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf37b4af75611db0800000000000000
+      internalID: -4822962127038365769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 280
+        width: 89
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d3a9db9ffcd6be0800000000000000
+      internalID: -1482300030800216796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_31
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 280
+        width: 91
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a830071ad86d7b0800000000000000
+      internalID: -5199812995244127645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_32
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 280
+        width: 89
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aee48ee8364102a0800000000000000
+      internalID: -6773055154254713176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_33
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 280
+        width: 89
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a143fbe504aa454f0800000000000000
+      internalID: -840860036967222246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 280
+        width: 92
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a82d752bb8b92c50800000000000000
+      internalID: 6641042239461861543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_35
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 20
+        width: 92
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fcf1e55dec91c20800000000000000
+      internalID: 3177798427889094466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_36
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 20
+        width: 92
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e155cfd7b796200800000000000000
+      internalID: 173805841665039888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_37
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 20
+        width: 91
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399a0a9c869c99450800000000000000
+      internalID: 6096125022519208339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_38
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 20
+        width: 91
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d348188b1f3fe060800000000000000
+      internalID: 6984870934554887121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skateboard Idle Sprite Sheet (1)_39
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 20
+        width: 92
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fe1113e32ee20a0800000000000000
+      internalID: -6904332421973283065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skateboard Idle Sprite Sheet (1)_0: 2706619172444212903
+      Skateboard Idle Sprite Sheet (1)_1: -1028602739105839974
+      Skateboard Idle Sprite Sheet (1)_10: 4683059362787786462
+      Skateboard Idle Sprite Sheet (1)_11: 5835182302104711681
+      Skateboard Idle Sprite Sheet (1)_12: -7542826045000738272
+      Skateboard Idle Sprite Sheet (1)_13: -1298732724218395802
+      Skateboard Idle Sprite Sheet (1)_14: -7442477558502459512
+      Skateboard Idle Sprite Sheet (1)_15: 5062756083484994357
+      Skateboard Idle Sprite Sheet (1)_16: 4777571124847827457
+      Skateboard Idle Sprite Sheet (1)_17: -7051803473693282377
+      Skateboard Idle Sprite Sheet (1)_18: -5697738576805784634
+      Skateboard Idle Sprite Sheet (1)_19: 4593757943225985536
+      Skateboard Idle Sprite Sheet (1)_2: 340204369952086936
+      Skateboard Idle Sprite Sheet (1)_20: -3192713008250411827
+      Skateboard Idle Sprite Sheet (1)_21: 688955154967252759
+      Skateboard Idle Sprite Sheet (1)_22: 2589007330939622846
+      Skateboard Idle Sprite Sheet (1)_23: 6553532208455967785
+      Skateboard Idle Sprite Sheet (1)_24: -8277470685751512732
+      Skateboard Idle Sprite Sheet (1)_25: -1480813524710128641
+      Skateboard Idle Sprite Sheet (1)_26: 143946561688000162
+      Skateboard Idle Sprite Sheet (1)_27: -4271043846779157906
+      Skateboard Idle Sprite Sheet (1)_28: 3516897398199745945
+      Skateboard Idle Sprite Sheet (1)_29: -4822962127038365769
+      Skateboard Idle Sprite Sheet (1)_3: -8992884928547351512
+      Skateboard Idle Sprite Sheet (1)_30: -1482300030800216796
+      Skateboard Idle Sprite Sheet (1)_31: -5199812995244127645
+      Skateboard Idle Sprite Sheet (1)_32: -6773055154254713176
+      Skateboard Idle Sprite Sheet (1)_33: -840860036967222246
+      Skateboard Idle Sprite Sheet (1)_34: 6641042239461861543
+      Skateboard Idle Sprite Sheet (1)_35: 3177798427889094466
+      Skateboard Idle Sprite Sheet (1)_36: 173805841665039888
+      Skateboard Idle Sprite Sheet (1)_37: 6096125022519208339
+      Skateboard Idle Sprite Sheet (1)_38: 6984870934554887121
+      Skateboard Idle Sprite Sheet (1)_39: -6904332421973283065
+      Skateboard Idle Sprite Sheet (1)_4: 5272792530922899933
+      Skateboard Idle Sprite Sheet (1)_5: 9144107871237943384
+      Skateboard Idle Sprite Sheet (1)_6: -2575152377981209023
+      Skateboard Idle Sprite Sheet (1)_7: -2725629068879391468
+      Skateboard Idle Sprite Sheet (1)_8: 8449107051889393713
+      Skateboard Idle Sprite Sheet (1)_9: 3462296254173627782
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
